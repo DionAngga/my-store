@@ -18,7 +18,7 @@ export default function Home() {
         <div className={styles.description}>
           <p>
             Get started by editing&nbsp;
-            <code className={styles.code}>src/pages/index.tsx</code>
+            <code className={styles.code}>src/pages/INYOURFXXKINGDREAM!.tsx</code>
           </p>
           <div>
             <a
@@ -26,7 +26,7 @@ export default function Home() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              By{' '}
+              By{' '}hxcked
               <Image
                 src="/vercel.svg"
                 alt="Vercel Logo"
@@ -58,24 +58,10 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             <h2>
-              Docs <span>-&gt;</span>
+              Dxcs <span>-&gt;</span>
             </h2>
             <p>
-              Find in-depth information about Next.js features and&nbsp;API.
-            </p>
-          </a>
-
-          <a
-            href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-            className={styles.card}
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <h2>
-              Learn <span>-&gt;</span>
-            </h2>
-            <p>
-              Learn about Next.js in an interactive course with&nbsp;quizzes!
+              Fxnd xn-dxpth inxrmatxon abxut Nxxt.js features and&nbsp;API.
             </p>
           </a>
 
@@ -86,10 +72,10 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             <h2>
-              Templates <span>-&gt;</span>
+              Templxtes <span>-&gt;</span>
             </h2>
             <p>
-              Discover and deploy boilerplate example Next.js&nbsp;projects.
+              Discxver and deploy boilxrplate example Next.js&nbsp;projects.
             </p>
           </a>
 
@@ -100,10 +86,24 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             <h2>
-              Deploy <span>-&gt;</span>
+              Deplxy <span>-&gt;</span>
             </h2>
             <p>
-              Instantly deploy your Next.js site to a shareable URL
+              Instxntly deplxy yoxr Next.js site to a sharxable URL
+              with&nbsp;Vercel.
+            </p>
+          </a>
+          <a
+            href="https:www.youtube.com"
+            className={styles.card}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <h2>
+              Hacked <span>-X;</span>
+            </h2>
+            <p>
+              Instxntly dxplxxy yxxr Nxxt.js sxtx ty x shxrxxblx XRL
               with&nbsp;Vercel.
             </p>
           </a>
