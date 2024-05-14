@@ -9,7 +9,7 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
     if (req.method === 'GET') {
         try {
             const data = await fetchProducts(); // Mengambil data tanpa parameter callback
-            res.status(200).json({ status: true, statusCode: 200, message: 'success', note: 'yeay bisa dong', data}); // Menambahkan tanda kurung tutup yang kurang
+            res.status(200).json({ status: true, statuslCode: 200, message: 'success', note: 'yeay bisa dong', data}); // Menambahkan tanda kurung tutup yang kurang
         } catch (error) {
             res.status(500).json({ status: false, statusCode: 500, message: 'error', note: 'gagal mengambil data' }); // Menangani error jika getData gagal
         }
