@@ -1,0 +1,44 @@
+.register {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction:column;
+    height: 100vh;
+    width: 100vw;
+    &__error {
+        color: red;
+        margin-bottom: 10px;
+    }
+    &__title {
+        font-size: 32px;
+        margin-bottom: 10px
+    }
+    &__form {
+        width: 25%;
+        padding: 20px;
+        box-shadow: 0 0 3px rgba(255, 255, 255, 0.5);
+        margin-bottom: 20px;
+        &__item {
+            display: flex;
+            flex-direction: column;
+            margin: 20px 0;
+            &__input {
+                padding: 10px;
+                background-color: rgb(83, 82, 81);
+                margin-top: 5px;
+                font-style:black;
+            }
+        }
+        &__button {
+            background-color: #000;
+            color: #fff;
+            width: 100%;
+            padding: 10px;
+        }
+    }
+    &__link {
+        a {
+            color: #23bebe;
+        }
+    }
+}
