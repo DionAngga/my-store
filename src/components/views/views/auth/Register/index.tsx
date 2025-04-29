@@ -48,7 +48,7 @@ const RegisterView = () => {
             push('/auth/login');
         } else {
             setIsLoading(false);
-            setError('ngga boleh pake email yang sama cuy');
+            setError('ngga boleh pake email yang sama cuy hehe');
         }
     }
         return (
